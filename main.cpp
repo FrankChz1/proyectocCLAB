@@ -8,6 +8,6 @@ int main () {
     cout <<"segundo commit no se que hacer xd\n";
     cout <<"Revisado";
     int n;
-    cout << "Ingrese el numero de sucursales:";
+    cout << "\nIngrese el numero de sucursales:";
     cin >> n;
 }
