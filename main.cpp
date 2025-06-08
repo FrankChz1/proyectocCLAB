@@ -10,5 +10,4 @@ int main () {
     int n;
     cout << "\nIngrese el numero de sucursales:";
     cin >> n;
-    cin.ignore();
 }
