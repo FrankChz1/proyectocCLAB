@@ -7,4 +7,8 @@ int main () {
     cout <<"Hola como estan";
     cout <<"segundo commit no se que hacer xd\n";
     cout <<"Revisado";
+    int n;
+    cout << "\nIngrese el numero de sucursales:";
+    cin >> n;
+    cin.ignore();
 }
