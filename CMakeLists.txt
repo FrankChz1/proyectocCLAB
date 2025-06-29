@@ -4,5 +4,7 @@ project(proyectocCLAB)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(proyectocCLAB main.cpp
-        CProducto.h
-        CSucursal.h)
+        Sistema.cpp
+        Sucursal.cpp
+        Producto.cpp
+)

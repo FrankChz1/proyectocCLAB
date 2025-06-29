@@ -85,19 +85,83 @@ CMakeFiles/proyectocCLAB.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/proyectocCLAB.dir/main.cpp.s"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\CLionProjects\proyectocCLAB\main.cpp -o CMakeFiles\proyectocCLAB.dir\main.cpp.s
 
+CMakeFiles/proyectocCLAB.dir/Sistema.cpp.obj: CMakeFiles/proyectocCLAB.dir/flags.make
+CMakeFiles/proyectocCLAB.dir/Sistema.cpp.obj: C:/CLionProjects/proyectocCLAB/Sistema.cpp
+CMakeFiles/proyectocCLAB.dir/Sistema.cpp.obj: CMakeFiles/proyectocCLAB.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\CLionProjects\proyectocCLAB\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/proyectocCLAB.dir/Sistema.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/proyectocCLAB.dir/Sistema.cpp.obj -MF CMakeFiles\proyectocCLAB.dir\Sistema.cpp.obj.d -o CMakeFiles\proyectocCLAB.dir\Sistema.cpp.obj -c C:\CLionProjects\proyectocCLAB\Sistema.cpp
+
+CMakeFiles/proyectocCLAB.dir/Sistema.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/proyectocCLAB.dir/Sistema.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\CLionProjects\proyectocCLAB\Sistema.cpp > CMakeFiles\proyectocCLAB.dir\Sistema.cpp.i
+
+CMakeFiles/proyectocCLAB.dir/Sistema.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/proyectocCLAB.dir/Sistema.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\CLionProjects\proyectocCLAB\Sistema.cpp -o CMakeFiles\proyectocCLAB.dir\Sistema.cpp.s
+
+CMakeFiles/proyectocCLAB.dir/Sucursal.cpp.obj: CMakeFiles/proyectocCLAB.dir/flags.make
+CMakeFiles/proyectocCLAB.dir/Sucursal.cpp.obj: C:/CLionProjects/proyectocCLAB/Sucursal.cpp
+CMakeFiles/proyectocCLAB.dir/Sucursal.cpp.obj: CMakeFiles/proyectocCLAB.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\CLionProjects\proyectocCLAB\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/proyectocCLAB.dir/Sucursal.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/proyectocCLAB.dir/Sucursal.cpp.obj -MF CMakeFiles\proyectocCLAB.dir\Sucursal.cpp.obj.d -o CMakeFiles\proyectocCLAB.dir\Sucursal.cpp.obj -c C:\CLionProjects\proyectocCLAB\Sucursal.cpp
+
+CMakeFiles/proyectocCLAB.dir/Sucursal.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/proyectocCLAB.dir/Sucursal.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\CLionProjects\proyectocCLAB\Sucursal.cpp > CMakeFiles\proyectocCLAB.dir\Sucursal.cpp.i
+
+CMakeFiles/proyectocCLAB.dir/Sucursal.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/proyectocCLAB.dir/Sucursal.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\CLionProjects\proyectocCLAB\Sucursal.cpp -o CMakeFiles\proyectocCLAB.dir\Sucursal.cpp.s
+
+CMakeFiles/proyectocCLAB.dir/Producto.cpp.obj: CMakeFiles/proyectocCLAB.dir/flags.make
+CMakeFiles/proyectocCLAB.dir/Producto.cpp.obj: C:/CLionProjects/proyectocCLAB/Producto.cpp
+CMakeFiles/proyectocCLAB.dir/Producto.cpp.obj: CMakeFiles/proyectocCLAB.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\CLionProjects\proyectocCLAB\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/proyectocCLAB.dir/Producto.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/proyectocCLAB.dir/Producto.cpp.obj -MF CMakeFiles\proyectocCLAB.dir\Producto.cpp.obj.d -o CMakeFiles\proyectocCLAB.dir\Producto.cpp.obj -c C:\CLionProjects\proyectocCLAB\Producto.cpp
+
+CMakeFiles/proyectocCLAB.dir/Producto.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/proyectocCLAB.dir/Producto.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\CLionProjects\proyectocCLAB\Producto.cpp > CMakeFiles\proyectocCLAB.dir\Producto.cpp.i
+
+CMakeFiles/proyectocCLAB.dir/Producto.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/proyectocCLAB.dir/Producto.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\CLionProjects\proyectocCLAB\Producto.cpp -o CMakeFiles\proyectocCLAB.dir\Producto.cpp.s
+
+CMakeFiles/proyectocCLAB.dir/aa.cpp.obj: CMakeFiles/proyectocCLAB.dir/flags.make
+CMakeFiles/proyectocCLAB.dir/aa.cpp.obj: C:/CLionProjects/proyectocCLAB/aa.cpp
+CMakeFiles/proyectocCLAB.dir/aa.cpp.obj: CMakeFiles/proyectocCLAB.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\CLionProjects\proyectocCLAB\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/proyectocCLAB.dir/aa.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/proyectocCLAB.dir/aa.cpp.obj -MF CMakeFiles\proyectocCLAB.dir\aa.cpp.obj.d -o CMakeFiles\proyectocCLAB.dir\aa.cpp.obj -c C:\CLionProjects\proyectocCLAB\aa.cpp
+
+CMakeFiles/proyectocCLAB.dir/aa.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/proyectocCLAB.dir/aa.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\CLionProjects\proyectocCLAB\aa.cpp > CMakeFiles\proyectocCLAB.dir\aa.cpp.i
+
+CMakeFiles/proyectocCLAB.dir/aa.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/proyectocCLAB.dir/aa.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\CLionProjects\proyectocCLAB\aa.cpp -o CMakeFiles\proyectocCLAB.dir\aa.cpp.s
+
 # Object files for target proyectocCLAB
 proyectocCLAB_OBJECTS = \
-"CMakeFiles/proyectocCLAB.dir/main.cpp.obj"
+"CMakeFiles/proyectocCLAB.dir/main.cpp.obj" \
+"CMakeFiles/proyectocCLAB.dir/Sistema.cpp.obj" \
+"CMakeFiles/proyectocCLAB.dir/Sucursal.cpp.obj" \
+"CMakeFiles/proyectocCLAB.dir/Producto.cpp.obj" \
+"CMakeFiles/proyectocCLAB.dir/aa.cpp.obj"
 
 # External object files for target proyectocCLAB
 proyectocCLAB_EXTERNAL_OBJECTS =
 
 proyectocCLAB.exe: CMakeFiles/proyectocCLAB.dir/main.cpp.obj
+proyectocCLAB.exe: CMakeFiles/proyectocCLAB.dir/Sistema.cpp.obj
+proyectocCLAB.exe: CMakeFiles/proyectocCLAB.dir/Sucursal.cpp.obj
+proyectocCLAB.exe: CMakeFiles/proyectocCLAB.dir/Producto.cpp.obj
+proyectocCLAB.exe: CMakeFiles/proyectocCLAB.dir/aa.cpp.obj
 proyectocCLAB.exe: CMakeFiles/proyectocCLAB.dir/build.make
 proyectocCLAB.exe: CMakeFiles/proyectocCLAB.dir/linkLibs.rsp
 proyectocCLAB.exe: CMakeFiles/proyectocCLAB.dir/objects1.rsp
 proyectocCLAB.exe: CMakeFiles/proyectocCLAB.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\CLionProjects\proyectocCLAB\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable proyectocCLAB.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\CLionProjects\proyectocCLAB\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable proyectocCLAB.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\proyectocCLAB.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

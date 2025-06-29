@@ -8,6 +8,10 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "C:/CLionProjects/proyectocCLAB/Producto.cpp" "CMakeFiles/proyectocCLAB.dir/Producto.cpp.obj" "gcc" "CMakeFiles/proyectocCLAB.dir/Producto.cpp.obj.d"
+  "C:/CLionProjects/proyectocCLAB/Sistema.cpp" "CMakeFiles/proyectocCLAB.dir/Sistema.cpp.obj" "gcc" "CMakeFiles/proyectocCLAB.dir/Sistema.cpp.obj.d"
+  "C:/CLionProjects/proyectocCLAB/Sucursal.cpp" "CMakeFiles/proyectocCLAB.dir/Sucursal.cpp.obj" "gcc" "CMakeFiles/proyectocCLAB.dir/Sucursal.cpp.obj.d"
+  "C:/CLionProjects/proyectocCLAB/aa.cpp" "CMakeFiles/proyectocCLAB.dir/aa.cpp.obj" "gcc" "CMakeFiles/proyectocCLAB.dir/aa.cpp.obj.d"
   "C:/CLionProjects/proyectocCLAB/main.cpp" "CMakeFiles/proyectocCLAB.dir/main.cpp.obj" "gcc" "CMakeFiles/proyectocCLAB.dir/main.cpp.obj.d"
   )
 

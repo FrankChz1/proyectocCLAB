@@ -128,6 +128,102 @@ proyectocCLAB/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\proyectocCLAB.dir\build.make CMakeFiles/proyectocCLAB.dir/build
 .PHONY : proyectocCLAB/fast
 
+Producto.obj: Producto.cpp.obj
+.PHONY : Producto.obj
+
+# target to build an object file
+Producto.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\proyectocCLAB.dir\build.make CMakeFiles/proyectocCLAB.dir/Producto.cpp.obj
+.PHONY : Producto.cpp.obj
+
+Producto.i: Producto.cpp.i
+.PHONY : Producto.i
+
+# target to preprocess a source file
+Producto.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\proyectocCLAB.dir\build.make CMakeFiles/proyectocCLAB.dir/Producto.cpp.i
+.PHONY : Producto.cpp.i
+
+Producto.s: Producto.cpp.s
+.PHONY : Producto.s
+
+# target to generate assembly for a file
+Producto.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\proyectocCLAB.dir\build.make CMakeFiles/proyectocCLAB.dir/Producto.cpp.s
+.PHONY : Producto.cpp.s
+
+Sistema.obj: Sistema.cpp.obj
+.PHONY : Sistema.obj
+
+# target to build an object file
+Sistema.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\proyectocCLAB.dir\build.make CMakeFiles/proyectocCLAB.dir/Sistema.cpp.obj
+.PHONY : Sistema.cpp.obj
+
+Sistema.i: Sistema.cpp.i
+.PHONY : Sistema.i
+
+# target to preprocess a source file
+Sistema.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\proyectocCLAB.dir\build.make CMakeFiles/proyectocCLAB.dir/Sistema.cpp.i
+.PHONY : Sistema.cpp.i
+
+Sistema.s: Sistema.cpp.s
+.PHONY : Sistema.s
+
+# target to generate assembly for a file
+Sistema.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\proyectocCLAB.dir\build.make CMakeFiles/proyectocCLAB.dir/Sistema.cpp.s
+.PHONY : Sistema.cpp.s
+
+Sucursal.obj: Sucursal.cpp.obj
+.PHONY : Sucursal.obj
+
+# target to build an object file
+Sucursal.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\proyectocCLAB.dir\build.make CMakeFiles/proyectocCLAB.dir/Sucursal.cpp.obj
+.PHONY : Sucursal.cpp.obj
+
+Sucursal.i: Sucursal.cpp.i
+.PHONY : Sucursal.i
+
+# target to preprocess a source file
+Sucursal.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\proyectocCLAB.dir\build.make CMakeFiles/proyectocCLAB.dir/Sucursal.cpp.i
+.PHONY : Sucursal.cpp.i
+
+Sucursal.s: Sucursal.cpp.s
+.PHONY : Sucursal.s
+
+# target to generate assembly for a file
+Sucursal.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\proyectocCLAB.dir\build.make CMakeFiles/proyectocCLAB.dir/Sucursal.cpp.s
+.PHONY : Sucursal.cpp.s
+
+aa.obj: aa.cpp.obj
+.PHONY : aa.obj
+
+# target to build an object file
+aa.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\proyectocCLAB.dir\build.make CMakeFiles/proyectocCLAB.dir/aa.cpp.obj
+.PHONY : aa.cpp.obj
+
+aa.i: aa.cpp.i
+.PHONY : aa.i
+
+# target to preprocess a source file
+aa.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\proyectocCLAB.dir\build.make CMakeFiles/proyectocCLAB.dir/aa.cpp.i
+.PHONY : aa.cpp.i
+
+aa.s: aa.cpp.s
+.PHONY : aa.s
+
+# target to generate assembly for a file
+aa.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\proyectocCLAB.dir\build.make CMakeFiles/proyectocCLAB.dir/aa.cpp.s
+.PHONY : aa.cpp.s
+
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -161,6 +257,18 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... proyectocCLAB
+	@echo ... Producto.obj
+	@echo ... Producto.i
+	@echo ... Producto.s
+	@echo ... Sistema.obj
+	@echo ... Sistema.i
+	@echo ... Sistema.s
+	@echo ... Sucursal.obj
+	@echo ... Sucursal.i
+	@echo ... Sucursal.s
+	@echo ... aa.obj
+	@echo ... aa.i
+	@echo ... aa.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
